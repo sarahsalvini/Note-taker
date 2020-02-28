@@ -31,5 +31,5 @@ Acceptance Criteria
 
 <img src="noteTaker1.png" width="500" height="350">
 
-<img src="noteTaker2.png" width="500" height="350">
+<img src="NoteTaker2.png" width="500" height="350">
 
