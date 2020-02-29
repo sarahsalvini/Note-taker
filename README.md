@@ -23,7 +23,6 @@ Acceptance Criteria
 
 
 ## Deployed application:
-   [GitHub Deploy](https://sarahsalvini.github.io/Note-taker/)
 
    [Heroku Deploy](https://note-taker-hw-11.herokuapp.com/)
 
